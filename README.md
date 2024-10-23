@@ -14,7 +14,7 @@ I noticed there weren't any updated bases for CS:GO, as CS:GO is the most docume
 
 ## I've multi-threaded everything, multi-threading is an important part of cheat development, so it's good practice and a good habit to have.
 
-# The latest Hazedumper offsets for CS:GO are included as "csgo:offsets.hpp", as the official Hazedumper github repository is outdated.
+The latest Hazedumper offsets for CS:GO are included in the files as "csgo-offsets.hpp", since the official Hazedumper github repository is outdated.
 
 ### Video
 [![meow](https://img.youtube.com/vi/KnqqxL9R83o/0.jpg)](https://www.youtube.com/watch?v=KnqqxL9R83o)
