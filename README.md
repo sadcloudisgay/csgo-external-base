@@ -9,6 +9,7 @@ I noticed there weren't any updated bases for CS:GO, as CS:GO is the most docume
 3. FOV system
 4. Triggerbot
 5. Glow (no flicker)
+6. Bunnyhop
 
 ## I've multi-threaded everything, multi-threading is an important part of cheat development, so it's good practice and a good habit to have.
 
